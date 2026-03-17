@@ -12,5 +12,5 @@ Sou um estudante em formação na área de Cibersegurança, dedicado a aprender 
 - [Auditoria de Segurança – Botium Toys](Projetos/Auditoria-Botium-Toys)
 
 ## Contato
-- LinkedIn: (https://www.linkedin.com/in/isaac-araújo001)
+- LinkedIn: www.linkedin.com/in/isaac-araújo001
 - Email: Isaacaraujosalles@outlook.com
